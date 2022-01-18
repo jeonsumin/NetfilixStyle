@@ -11,6 +11,7 @@
 - SwiftUI PreView 
 
 ## DEMO
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/51107183/149952821-20cbad42-5542-4352-88e6-57819ba11c06.gif)
 
 ## 배운 내용
 
