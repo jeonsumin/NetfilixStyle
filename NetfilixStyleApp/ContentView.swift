@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     let titles = ["Netflix Sample App"]
+//    swift 에서 swiftUI 사용하기 
     var body: some View {
         NavigationView{
             List(titles, id: \.self) {
